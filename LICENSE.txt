@@ -1,0 +1,7 @@
+Este software é fornecido gratuitamente para fins pessoais, educacionais e não comerciais.
+Qualquer uso comercial deste código — incluindo, mas não se limitando a, incorporação em produtos vendidos, 
+prestação de serviços baseados nele ou redistribuição com fins lucrativos — 
+requer uma licença comercial paga, obtida diretamente com o autor.
+Contato para licenciamento: wellington@wsantos.eti.br
+O uso não autorizado para fins comerciais poderá resultar em ações legais.
+Copyright © 2025 Wellington Gomes dos Santos. Todos os direitos reservados.
